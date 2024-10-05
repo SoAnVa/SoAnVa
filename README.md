@@ -29,7 +29,6 @@ This GitHub showcases my journey through various projects spanning both machine 
 ## 💡 Interests
 - 🧠 Machine Learning (ML)
 - 🤖 Large Language Models (LLMs)
-- ⚡ Transformers
 - 🖼️ Generative Models
 - 🌱 Environmental AI solutions
 
